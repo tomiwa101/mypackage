@@ -1,0 +1,15 @@
+Metadata-Version: 1.0
+Name: mypackage
+Version: 0.1
+Summary: DATASCIENCE Solution python package
+Home-page: https://github.com/tomiwa101/mypackage
+Author: Tomiwa
+Author-email: bentommie22@gmail.com
+License: MIT
+Description: # mypackage
+        
+        This library was created to provide solution to advanced data wrangling processes
+        
+        # How to install
+        ...
+Platform: UNKNOWN
